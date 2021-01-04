@@ -6,6 +6,10 @@
 		{
 			"name": "JS-3D",
 			"path": "JS-3D"
+		},
+		{
+			"name": "JS-3D-1",
+			"path": "JS-3D-1"
 		}
 	],
 	"settings": {}
